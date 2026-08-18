@@ -2,11 +2,21 @@
 
 Sou desenvolvedor apaixonado por tecnologia, com foco em **desenvolvimento de software, sistemas e infraestrutura**. Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos funcionais.
 
-Tenho experiência e interesse em **programação, desenvolvimento web, bancos de dados, Linux e desenvolvimento Android**.
+Tenho experiência e interesse em **programação, desenvolvimento web, bancos de dados, Linux, Docker e desenvolvimento Android**.
 
 ---
 
+## 📊 Estatísticas do GitHub
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardocontini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocontini&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
 
 ## 🔗 Contato
 
@@ -31,7 +41,8 @@ Tenho experiência e interesse em **programação, desenvolvimento web, bancos d
 * 🌐 Desenvolvimento **Web**
 * 📱 Desenvolvimento para **Android**
 * 🗄️ Experiência com **bancos de dados e SQL**
-* 🚀 Interesse em **Docker, Git e infraestrutura**
+* 🐳 Experiência com **Docker e ambientes containerizados**
+* 🚀 Interesse em **Git, infraestrutura e servidores**
 * 📚 Sempre buscando aprender e evoluir minhas habilidades
 
 ---
@@ -60,10 +71,11 @@ Tenho grande familiaridade com o ecossistema **Linux**, incluindo utilização d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" alt="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/>
 
 </div>
 
-**Python · JavaScript · HTML5 · CSS3 · Node.js · Android Studio**
+**Python · JavaScript · HTML5 · CSS3 · Node.js · Android Studio · Docker**
 
 ---
 
