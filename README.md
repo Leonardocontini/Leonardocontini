@@ -6,15 +6,7 @@ Tenho experiência e interesse em **programação, desenvolvimento web, bancos d
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leonardocontini&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🔗 Contato
 
